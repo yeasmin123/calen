@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(../img/vero.jpg);
+    background-size: cover;
+}
+/* .me{
+    height: 200px;
+    width: 450px;
+    
+} */
+
+.h1{
+    font-size: medium;
+    
+   
+}
+
+td{
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 20px;
+  
+}
+td:hover{
+    background-image: url(../img/unsplash.jpg);
+    transition: 2s;
+}
+.click{
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: blueviolet;
+    display: inline-block;
+    border-radius: 6px;
+    box-shadow: 9px 5px 17px;
+
+}
+.click a{
+    text-decoration: none;
+    color: aliceblue;
+}
